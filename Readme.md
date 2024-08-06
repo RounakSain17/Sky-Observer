@@ -5,7 +5,7 @@ Sky Observer is a simple and elegant weather application that provides real-time
 ## Features
 
 - Current weather information
-- Temperature, humidity, and wind speed
+- Temperature and Weather
 - Weather description and icon
 - Location-based weather updates
 
